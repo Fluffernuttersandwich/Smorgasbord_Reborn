@@ -7,7 +7,7 @@
       "github/Fluffernuttersandwich",
       "github/LBeast161776"
     ],
-    "game": "SevenDaysToDie",
+    "game": "sevendaystodie",
     "official": false,
     "tags": [
       "QoL",
@@ -16,29 +16,28 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "displayVersionOnlyInInstallerView": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
 
     
 
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/Smorgasbord/Smorg1.jpg",
-      "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
+      "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/README.md",
       "download": "https://wabbajack.b-cdn.net/SmorgasbordV2.wabbajack_9891ed01-68ac-4865-9bb3-9c06f2dc2328",
-      "machineURL": "Better7D2D",
+      "machineURL": "smorgasbord_v2",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": ""
     },
 
     "download_metadata": {
-      "url": "https://wabbajack.b-cdn.net/SmorgasbordV2.wabbajack_9891ed01-68ac-4865-9bb3-9c06f2dc2328",
-      "hash": "F9D44495933F3A38568DC52855D6F897617073284DEDFBB7DBE52B446BCE805D",
+      "Hash": "OtQAN7XHNV0=",
       "size": 135412049,
-      "numberOfArchives": 567,
-      "sizeOfArchives": 32087879214,
-      "numberOfInstalledFiles": 52778,
-      "sizeOfInstalledFiles": 46277043736,
-      "totalSize": 78364922950
+      "numberOfArchives": 352,
+      "sizeOfArchives": 24715746975,
+      "numberOfInstalledFiles": 15322,
+      "sizeOfInstalledFiles": 24245873108,
+      "totalSize": 48961620083
     },
 
     "version": "2.3.2.1",
@@ -47,6 +46,7 @@
     "repositoryName": "Better 7DTD"
   }
 ]
+
 
 
 
