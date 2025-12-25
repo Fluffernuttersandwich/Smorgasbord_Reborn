@@ -1,6 +1,6 @@
 [
   {
-    "title": "Sm\u00F6rg\u00E5sbord",
+    "title": "SmorgasbordV2",
     "description": "This list is the modular buffet table of the very best mods available for 7 Days to Die.",
     "author": "FNS",
     "maintainers": [
@@ -11,36 +11,40 @@
     "official": false,
     "tags": [
       "QoL",
-      "Vanilla\u002B"
+      "Vanilla+"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
+
+    
+
     "links": {
-      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/refs/heads/main/Smorgasbord/Smorg1.jpg",
-      "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Sm\u00F6rg\u00E5sbord.wabbajack_ea1957a5-2c8d-4252-bba7-9fab139cdb9a",
-      "machineURL": "Better7D2D",
+      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/Smorgasbord/Smorg1.jpg",
+      "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/README.md",
+      "download": "https://wabbajack.b-cdn.net/SmorgasbordV2.wabbajack_9891ed01-68ac-4865-9bb3-9c06f2dc2328",
+      "machineURL": "smorgasbord_v2",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": ""
     },
+
     "download_metadata": {
-      "Hash": "hf7JJNbhvQI=",
-      "Size": 281198039,
-      "NumberOfArchives": 567,
-      "SizeOfArchives": 32087879214,
-      "NumberOfInstalledFiles": 52778,
-      "SizeOfInstalledFiles": 46277043736,
-      "TotalSize": 78364922950
+      "Hash": "OtQAN7XHNV0=",
+      "size": 135412049,
+      "numberOfArchives": 352,
+      "sizeOfArchives": 24715746975,
+      "numberOfInstalledFiles": 15322,
+      "sizeOfInstalledFiles": 24245873108,
+      "totalSize": 48961620083
     },
+
     "version": "2.3.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-09-22T03:20:30.6563506Z",
-    "repositoryName": ""
     "repositoryName": "Better 7DTD"
   }
-
 ]
+
 
