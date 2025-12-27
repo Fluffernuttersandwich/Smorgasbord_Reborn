@@ -21,9 +21,7 @@ That list is a _smorgasbord_ of mods.
 ______________________________________________________________________________________________________
 
 
-## Vision for Smörgåsbord: At this current moment the project is on HOLD. Will notify everyone when it is returning Hold: (11/07/2025) - Return: (TBD)
-
-To provide players with a deluxe highly customizable overhaul experience that still has it's own voice.  
+## Vision for Smörgåsbord: To provide players with a deluxe highly customizable overhaul experience that still has it's own voice.  
 
 
 ______________________________________________________________________________________________________
@@ -33,56 +31,16 @@ ________________________________________________________________________________
 **Who is my new target audience:**
 
 
-The sophisticated A16 appreciator who is looking for something new.
+Anyone who has played vanilla and/or the other big overhauls and is looking something new.
 
 
-**Who are these people, and what do they want in an overhaul mod:**
-
-
-They have have hundreds or thousands of hours into this game; they want what was best of the old days, combined with some novel features. 
-
-
-**Is Smorgasbord A16? Not at all!**
-
-
-However, I do think the default version of this list will appeal to some of those people and touch them in ways they never knew they needed. 
-
-______________________________________________________________________________________________________
-
-
-**Here is a short list of the mods I have included to give Smorgasbord some unique character:**
-
-
-- **Better Storms**: Superior Biome Progression system.
-
-- **Immersive Survival**: pleasantly intricate water management.
-
-- **Improved Loot Experience**: Rewarding, yet balanced early game loot rework.
-
-- **Medical Conditions**: Adds in gritty ailments to contend with.
-
-- **7 Days of Insomnia**: Forces players to manage sleep and security when sleeping.
-
-- **Blood Moon Chaos**: Blood Moons can happen at anytime without notice!
-
-- **Random Zombie Speed**: life is full of surprises.
-
-- **WalkerSim**: This mod is revolutionary! It adds more zombies into the game world with organic global movement forecasting based on where the player travels to. It also recalls unneeded zombies to keep performance high. This mod is a game changer for making you actually feel like you are in a real zombie apocalypse setting.
+**Distinctives: Smorgasbord’s greatest strength remains it’s modularity.**
 
 
 ______________________________________________________________________________________________________
 
 
-
-**At the end of the day, Smorgasbord’s greatest strength remains it’s modularity.**
-
-Though I am making it a grittier experience by default, players are still free to customize it to be whatever their own version of perfection is.  
-
-
-______________________________________________________________________________________________________
-
-
-### This Mod List is currently compatible with Stable game version: v2.3
+### This Mod List is currently compatible with Stable game version: v2.5
 
 ### You must use the Wabbajack Application to download this Mod List!
 
