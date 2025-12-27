@@ -18,7 +18,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/Smorgasbord/Smorg1.jpg",
+      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/Smorgasbord/Smorg5.jpg",
       "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/README.md",
       "download": "https://authored-files.wabbajack.org/Smorgasbord.wabbajack_516c10e4-45a3-4ffb-bd24-a76642612b33",
       "machineURL": "Smorgasbord",
@@ -39,4 +39,5 @@
     "dateUpdated": "2025-12-27T17:33:36.8594375Z",
     "repositoryName": "Better 7DTD"
   }
+
 ]
