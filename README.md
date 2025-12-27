@@ -51,8 +51,6 @@ https://www.youtube.com/watch?v=ipJ7df0D_0k
 
 Someone out there is going: _"Why is that video 2 hours long!?"_ 
 
-Someone out there is going: "Why is that video 2 hours long!?"
-
 That video doesn't cover just the installation process.
 
 It thoroughly explains what everything is, how the applications work, provides an overview of customizing the list, and also includes a showcase of major mods.
@@ -76,7 +74,8 @@ Unlike other Overhaul Lists that add things not all players like, you have compl
 
 - You are not learning a new game.  Yet, it still feels like a fresh experience.
 I try to add mods that are intuitive.
-I dislike systems that require you to go read third party documentation just to play a game. 
+I dislike systems that require you to go read third party documentation just to play a game.
+You don't have to go watch four hours of video to figure out how things work (looking at you Valheim). 
 
 - This Mod List is not about overhauling major systems, nor adding too many new features.
 This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.
@@ -120,13 +119,15 @@ https://www.youtube.com/watch?v=c9jDnjSRqOE
 The YouTube Content Creator **DroppedIceCream** does a lot of reviews of ModLists for games like Skyrim and Fallout.  
 
 So check out his reviews if you are interested in learning about some of the best mods for those games.    
+If you have a Premium Account at Nexus Mods, you should be using Wabbajack!
+If you are a Skyrim fan, you should 100% try Nolvus!
 
 
 --- 
 
 ### Why you should consider using this Wabbajack-MO2 ModList
 
-- For users with a Premium NexusMods account, it is damn-near a "one-touch" modding solution to give you the best mods available for 7DtD.
+- For users with a Premium NexusMods account, it is damn-near a "one-touch" modding solution to give you the best mods available for 7DtD (and other games like Fallout/Skyrim).
 
 - Even if you only have a Free NexusMods account, I've done all the work of collecting these mods and testing their Load Order for you.  
 So, even though you need to click through to download each mod, one-at-a-time, it's still faster than you doing it yourself, and with no wasted time spent troubleshooting the Load Order to sort out mod conflicts.
