@@ -1,145 +1,26 @@
-2.3.2.1 23:30 EST 21SEP2025
+2.5.1.1 23:30 EST 26DEC2025
 
-For Game version 2.3
+Exclusively for 7DtD game version 2.5
 
 Comments:
 
-1. You probably need to start a new save... this is not because that many mods updated, but because I have been disabling several mods.
-There are so many changes, it could mess up your existing save.  
-Like always, if you are happy with your current playthrough: WAIT, TO, UPDATE!
+1. We're back!  I took a much needed break and have decided to ressurrect the Mod List.  
+I missed playing, modding, and interacting with the community.  
+I apologize for leaving the list in a bad state when I left, I accidentally formated my old PC to pass it on to my son.
 
-2. I found myself getting into a rut playing the same way over and over. 
-My recent playthroughs were getting too easy.
-So, I am making the default list more challenging.  By default, it will force the player to work harder for everything.  
-I didn't add any grind, just disabled (but left in place) some mods that were too OP.
-I find it that when I am constantly desperate and barely surviving, I have a better time with 7DtD. 
-If you don't legitmately fear death, you play sloppy, and you have less fun.
+2. Going forward, I will maintain Smorgasbord, but to protect my own sanity I will be keeping user needs at arms distance.  
+What this means to you:
+A. Fewer and slower updates. I'll shoot for monthly.  
+B. Less one on one troubleshooting help from FNS. I am working on other projects and am still 66% RTO.  
+C. Everyone is going to have to ask on another in this community to help shoulder the burden of providing user assistance with the list. 
 
-3. Caution: I edited WalkerSim settings. 200 Zombie population, and EnhancedSoundAwareness (sonic hearing) set to true. 
-It appears the author Zeh_Matt has improved it, so it's not as overwhelming as it was.  However, stealth matters!
-I want to try a playthrough with it set like this for a greater emphasis on stealth as a challenge. 
-Recently I started watching TWD for the first time, and really liked the importance of stealth and speed.  
-You are of course free to edit it to however you like.
-
-4. Renamed the EFTX Separator to Weapons.  
-It's EFTX, Izy AIO, add-ons to both, and other more popular weapon mods.  
-
-5. One of our Community Members Rwdillin75 has been experimenting with IZPrebuit's Learn By Doing Returns mod. 
-CAUTION! I added this mod to the list, but it is VERY EXPERIMENTAL! 
-You need to be a bit of an advanced mod user to attempt this with Smorgasbord.  
-You have to disable a few dozen mods for this to work.
-Basically, if a mod effects progression, perks, or crafting recipes tied to progression, it needs to be disabled!
-I will be posting a follow-up guide in the GutHub ReadMe once I test it out some more.  
+3. Current Plans:
+Add more of the old mods we're missing for 2.5 as they get updated and/or I have time to test them.  
+We are missing vehicles, Avatars (VRoid waifus), the CompoPack, and some other heavy hitters.
 
 Gratitude:
-ALo, Feras, and the rest of the guys discussing the Headshot Only conversation in our Discord channel at Guppy's. 
-I love productive brainstorming conversations that lead to cool mods and better ways to play.  
+StallionsDen for managing my mods during my absence.  I owe him big time!  
 
-Mods Removed: 
-
-"Dewtas Hold Multiple Quests -- 1.0 Stable" It's superfluous with "Quest Revamp".
-
-Mods Added:
-
-"LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead" Armor, enabled.
-Adds armor and cosmetic options from TWD.
-
-"Guppycur's Fire AddOn to Score" QoL, enabled.
-Back by popular request: Guppy's Fire adds Fire Extinghuishers, the ability to summon a biplane to drop water on an area, and other fire related goodies.
-Previously, this mod was having errors in 2.0, but either something in a Score update, or the settings I selected for FireManagement fixed the errors we had. 
-Caution, not tested on a Dedicated Server. If someone with a Dedi can test the Extinguisher on a fire, and check logs, that would be great.  
-User sentiment: "Hey Fin, wouldn't it be nice to be able to you know, actually put out the fires, just sayin'."
-
-"FNS No Crispies with Guppy's Fire Mod v2" QoL, enabled.
-If you disable Guppycur's Fire, also disable this mod! 
-Prevents Guppycur's Fire Mod from converting zombies set on fire to Burnt Zombies... I like molotovs to actually kill zombies, not just convert them to crispies!
-
-"Remote Explosive Charges - with optional Safe Cracker add-on" QoL, enabled.
-Portable explosives with remote detonation. 
-One for breaking blocks, one for damaging zombies, one for safe-cracking. 
-Don't like your undead neighbors car? Blow it up from your toilet! 
-Want to expand your base but that pesky wall is in the way? 
-Blow it up from a safe distance! Wanna just cause mayhem? It can probably do that too.
-
-"Headshots Preferred by FNS" Survivalist, enabled.
-Headshots do 33% more damage, body shots do 33% less damage.  
-Mod Author ALo gave us this modlet, so please thank him if you appreciate it.
-Recommendation from Fin: From a recent playtest, I think it might be best for most players to disable the Armored Zombies mod from EFTX if using this mod.  
-Unless you really like an insane challenge. 
-My reasoning is this: Feral zombies with helmets, especially Wights are brutal in the early-to-mid game when you don't have AP rounds.
-They have high hit points, they get on top of you in the blink of an eye, and you already do low damage to their lower body.  
-This could be fun for a minority of players, but this would be unpleasant to most.  
-Armored Zs is now disabled by default with a note explaining this. 
-
-"Brain Dead Zed" Zombies, disabled.
-From the Author: The zombies will, mostly, no longer act like structural engineers, bee-lining for the weakest part of your base from the far side. 
-They will now, more so, approach and attack from the direction they saw you from. 
-This acts a bit more like the old AI, or the AI from alpha 16, but without the issues from the time.
-Most zombies are now 'stupid' zombies. 
-Utility worker (construction) zombies retain the current 'smart' AI, and the Demolition zombie was given the 'smart' AI, making them far more dangerous.
-Zombie Dogs and Dire Wolves were left untouched.
-Be warned, your standard stilt cheese base will not work! 
-Only a fraction of the zombies will use your stairs, unless you get very lucky and the horde just approaches from that direction.
-From Fin: I disabled this by default because taking away a zombie's ability to climb stairs easily makes some POIs a worse experience. 
-It's there if you want it. 
-
-"No More Drill Claws" Zombies, enabled.
-In vanilla 7 Days to Die, when a zombie has several 'allies' close by, they get a 20% block damage boost per 'ally.' 
-So, when a horde is attacking a wall, they can easily tear through even the hardest blocks. 
-For many people, this seriously breaks immersion, as a small group of rotting corpses will tear through a cubic meter of concrete in about the same time you can dig through it with an auger.
-This mod addresses that problem by completely removing the feature. Zombies will no longer get any block damage boost when in groups. As a result, concrete walls actually act like concrete.
-
-"GirlsFrontline Jiangyu RaindropCleavingBlades" Custom Avatars (VRoid).
-Just another waifu.
-
-"(V2) Classic Crack-a-Book HQ" POI, enabled.
-Adds an updated version of the old tier 5 Crack-a-Book HQ.
-TFP created the original POI, but arramus updated it for v2.
-Many people preffered the older version compared to the new one.
-"(V2) Atomic Burger" POI, enabled.
-Adds in a reconstructed version of the base game's Wasteland rubble version which has been partially destroyed.
-It is a T2 POI hooked up for fetch, clear, restore power, and Infested. It can appear in the commercial, downtown, and country residential locations.
-Note: I have not updated the Smorgasbord Maps yet, so if you want to see these new POIs, run a new Advanced RWG.  
-
-"Recipes for Resin by FNS" Standard, enabled.
-This is a small Add-On modlet for the Archery Expansion mod. 
-My mod adds additional recipes to allow for different uses of the Resin resource added to the game by the Archery Expansion mod. 
-It provides new alternative recipes for: Torches, Glue, Aloe Cream, and Goldenrod Tea.
-
-"Shrader's NPCs All-in-One" NPCs, disabled.
-Adds a ton of new NPCs to the game. 
-I only briefly playtested this mod, no errors, the NPCs spawned in game and functioned as expected. 
-
-Mods Updated:
-
-"LittleRedSonja's CAS"
-"Witos Camera"
-"DanzoLootBagAndAnimalIncreaseTimer"
-"Clopex Estate"
-"Gella Park"
-"Serenity - Cave Prefabs"
-"7 Days of Insomnia"
-"MXMRMXs poi pack"
-"(V2) Summon Animals (NPC Mod Add On Pack)"
-"Enhanced LCB" Fixed, Standard, re-enabled. 
-"LittleRedSonja Shopping Time"
-"(V2) Oakraven Fish Farm"
-"Medical conditions(alternative rest buff source)"
-"Random Zombie Speed" This didn't update, but I dialed down the max speed from 3 to 2.5, since they were a little too fast. 
-
-All of WookieNookie (WMM) mods have been updated.
-
-"Custom Avatars" This was previously called VRoid. 
-If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon in the character tab and uncheck "Aim Correction".
-Alter created a workaround to remove the "third hand" when combining this mod with IZY AIO... however, it's not perfect.
-Using Izy + Custom Avatar (VRoid) will still do a funny thing with the hands changing from 3rd person view to FPV when you ADS.
-Your Custom Avatar hands will be temporarily be replaced with the Izy hands when you ADS when using Custom Avatar (VRoid).
-This is because Izy does his hands differently than vanilla or EFT-O/X.
-Izy currently does not have plans to update his hands.
-If you play as a male character in the base game of 7DtD, but use a female Avatar, with Izy guns, you will switch to man-hands in ADS/1st Person View. :P
-
-"Rainstorm" 
-Laydor added different levels of Fog: You can change this setting in the Gears Mods menu. 
-He has Normal vanilla game fog, Rainstorm mode improved fog, and a Silent Hill level of oppressive constant fog. 
+For new folks, welcome, for old faces, welcome back!
 
 __________________________________________________________
