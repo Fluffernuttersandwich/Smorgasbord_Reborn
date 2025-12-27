@@ -18,7 +18,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/Smorg5.png",
+      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/Smorg5.webp",
       "readme": "https://raw.githubusercontent.com/Fluffernuttersandwich/Smorgasbord/main/README.md",
       "download": "https://authored-files.wabbajack.org/Smorgasbord.wabbajack_516c10e4-45a3-4ffb-bd24-a76642612b33",
       "machineURL": "Smorgasbord",
@@ -41,4 +41,5 @@
   }
 
 ]
+
 
