@@ -1,3 +1,329 @@
+📦 Smörgåsbord by FNS
+
+📖 Definition
+
+Smörgåsbord
+/ ˈsmɔr gəsˌbɔrd, ˈʃmɔr- /
+noun
+
+An extensive array or variety.
+
+That list is a smorgasbord of mods.
+
+🎯 Vision
+
+Smörgåsbord exists to provide players with a deluxe, highly-customizable Vanilla+ overhaul that still has a distinct voice.
+
+Target Audience
+
+Anyone who has played vanilla or major overhauls and wants something new — without relearning the game.
+
+Core Strength
+
+Modularity.
+You choose exactly what you want it to be.
+
+🎮 Compatibility
+
+Game Version: Stable 7 Days to Die v2.5
+
+Install Method: Wabbajack + Mod Organizer 2 (MO2) (required)
+
+📺 Installation Video (Highly Recommended)
+
+▶ Full Installation + Customization Guide
+https://www.youtube.com/watch?v=ipJ7df0D_0k
+
+“Why is this video 2 hours long?”
+Because it covers:
+
+Installation
+
+How Wabbajack works
+
+How MO2 works
+
+Mod customization
+
+Major mod showcases
+
+This is ideal if you are:
+
+New to modding
+
+New to 7DtD modding
+
+New to MO2
+
+🧩 Distinctive Features
+
+The most modular 7DtD modlist available
+
+Vanilla+ feel — not a new game
+
+Focus on dozens of small improvements
+
+QoL-heavy without breaking balance
+
+Self-contained (no interference with other overhauls)
+
+Balance is subjective.
+Disable what you don’t like. Increase difficulty if it feels too easy.
+
+🧪 Sample Gameplay
+
+
+▶ https://youtu.be/EjcPL_E-l3w
+
+📚 Table of Contents
+
+Contact & Community
+
+Requirements
+
+Assumptions
+
+Installation Directions
+
+Customization in MO2
+
+Random World Generation
+
+Dedicated Servers
+
+Troubleshooting
+
+Updates & Versioning
+
+FAQs
+
+Known Issues
+
+Performance & Lossless Scaling
+
+Credits
+
+Donations
+
+📬 Contact & Community
+Purpose	Location	Link
+Bug Reports	GitHub Issues	https://github.com/Fluffernuttersandwich/Smorgasbord/issues
+
+General Discussion	GitHub Discussions	https://github.com/Fluffernuttersandwich/Smorgasbord/discussions
+
+Live Community & Support	Guppy’s 7DtD Discord	https://discord.gg/WpVPJWj7Xk
+
+Mod Author	NexusMods (FNS)	https://next.nexusmods.com/profile/FlufferNutterSandwich
+
+Videos & Guides	YouTube	https://www.youtube.com/@FlufferNutterSandwich
+
+Wabbajack Support	Wabbajack Discord	https://discord.gg/wabbajack
+💻 Requirements and Hardware
+Minimum
+
+Hardware capable of running vanilla 7DtD
+
+Performance Notes
+
+Some mods can reduce FPS by 15–30
+
+Lower graphics if needed
+
+Avoid RWG maps larger than 10k on low-end hardware
+
+[!WARNING]
+The Descent requires significant memory.
+16GB may not be enough. YMMV.
+
+📜 Commandment Zero
+
+Read the Assumptions, Installation, and Troubleshooting sections before asking for help.
+99% of issues are already covered.
+
+🧠 Assumptions
+
+You are using 7DtD Stable v2.5
+
+EAC is disabled
+
+You did NOT delete 0_TFP_Harmony
+
+You launched vanilla once before modding
+
+No mods exist in:
+
+C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
+
+
+(Except Harmony)
+
+🛠 Installation Directions
+Step 0 — Nexus Mods Account
+
+https://users.nexusmods.com/register
+
+Free = manual clicking
+
+Premium = automated downloads
+
+Step 1 — System Requirements
+
+Windows 10 1809+ or Windows 11
+
+VC++ Redistributable
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+Step 2 — Wabbajack
+
+https://www.wabbajack.org/
+
+Must be latest version
+
+Login to Nexus Mods inside Wabbajack.
+
+Step 3 — Download Smörgåsbord
+
+Browse Lists → 7 Days to Die
+
+Enable Non-Featured
+
+Select Smörgåsbord
+
+Download & Install
+
+Step 4 — Launch MO2
+
+Use the included MO2
+
+Accept nxm association
+
+Step 5 — Customize Mods
+
+[!CAUTION]
+Do NOT change load order unless you know exactly what you’re doing.
+
+Choose:
+
+ONE UI Suite
+
+ONE Perk Suite
+
+Optional QoL mods
+
+Optional OP mods
+
+🌍 Random World Generation
+
+Recommended size: 8–10k
+
+RWG can take 10–60 minutes
+
+Descent adds massive underground systems
+
+[!WARNING]
+Maps >10k can fail or corrupt saves.
+
+🖥 Dedicated Servers
+Self-Hosted
+
+Requires MO2
+
+All clients + server must match mods
+
+EAC must be disabled
+
+Hosted Providers
+
+Follow RipJammer method
+
+Do NOT redistribute mods publicly
+
+🧯 Troubleshooting
+
+No logs = no help
+
+Logs location:
+
+C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die
+
+
+Common issues:
+
+Wrong game version
+
+EAC enabled
+
+Mods in wrong folders
+
+Antivirus blocking MO2
+
+🔄 Updates
+
+Track on NexusMods
+
+Update via Wabbajack
+
+Overwrite existing install
+
+New versions may require new saves
+
+❓ FAQs
+
+Not compatible with Darkness Falls / Rebirth
+
+Not compatible with Vortex
+
+Yes, multiplayer works
+
+Yes, dedicated servers work
+
+No, this is not lightweight
+
+⚠ Known Issues
+
+Benign warnings from WalkerSim
+
+Some Descent warnings
+
+Experimental mods are unvetted
+
+🚀 Lossless Scaling
+
+Paid Steam app
+Great for RTX GPUs and high-refresh monitors
+
+▶ Guide: https://www.youtube.com/watch?v=qc3zZEYpfLY
+
+🙏 Credits
+
+YOU
+
+Wabbajack Team
+
+All Mod Authors
+
+Guppy’s Discord Community
+
+❤️ Donations
+
+Not expected — but appreciated.
+
+▶ https://next.nexusmods.com/profile/FlufferNutterSandwich
+
+🛡 Final Note
+
+Gatekeeping is not cruelty — it’s quality control.
+
+Read the instructions.
+Respect the craft.
+Enjoy the buffet. 🍽️
+
+
+
+
+
+
 # Smörgåsbord by FNS
 
 ![Smorg1](https://github.com/user-attachments/assets/84245d84-fcfc-4842-a874-987e7332f840)
