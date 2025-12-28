@@ -21,6 +21,15 @@ That list is a _smorgasbord_ of mods.
 ______________________________________________________________________________________________________
 
 
+
+Short version of the Instructions for people already familiar with Modding 7DtD and Wabbajack:
+
+<img width="1024" height="1024" alt="Smorgasbord_Wabbajack_Installation_Guide_1024" src="https://github.com/user-attachments/assets/f0f7ae85-86bc-43f9-8c75-f8b9314ebfc4" />
+
+
+______________________________________________________________________________________________________
+
+
 ## Vision for Smörgåsbord: To provide players with a deluxe highly customizable overhaul experience that still has it's own voice.  
 
 
