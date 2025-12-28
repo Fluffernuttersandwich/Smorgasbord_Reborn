@@ -673,34 +673,7 @@ The following mods were removed because I am trying to reduce Warnings and "tole
 If you are willing to troubleshoot things _YOURSELF_, you can add them back into your own game.
 
 
-"Telric's Decorations" 
-
-"Flogi's Perk mods" 
-
-"Flogi's Quest Mod"
-
-"DoubleBlundy's Bounty Quests" 
-
-"Trader Quest Addendum" 
-
-"Blood Moon Loot Bags" 
-
-"Wandering Horde Loot Bags"
-
-"Telric's Compact Health Bar"
-
-"TWD POI Pack" Ignorant users kept saying my ModList had messed up textures and RWG issues... it kept being these POIs.
-
-"Random zombie idle movement speed" 
-
-"Beefy Hordes by GR" WalkerSim is superior.  
-
-"Stack Increaser suite" Just back to the one from StallionsDen... want more, add them yourself. 
-
-"OCB Pretty Grass" These worked fine, but I prefer BetterBiomes.
-
-"OCB More Flowers and Plants" These worked fine, but I prefer BetterBiomes.
-
+_placeholder for later_
 
 Here are some popular off-site (not included in the list) mods that were (and might still be) compatible with this ModList if you want to add them to your own game:
 
@@ -1083,7 +1056,7 @@ ________________________________________________________________________________
 
 # Troubleshooting
 
-1. Are you sure you are on the correct game version?  Currently this is 7DtD game version: **2.5**
+1. Are you sure you are on the correct game version?  Currently this is 7DtD game version: **2.5** , not experimental!
 ![image](https://github.com/user-attachments/assets/35817f2d-4a25-447c-87ef-48097b12d104)
 
 
@@ -1360,7 +1333,7 @@ After you update, Wabbajack will spit it out at the bottom of the mod list and n
 
 
 "Will it remember changes I made to mods xml?" 
-"Will it rmember mods I enabled/disabled between updates?"
+"Will it remember mods I enabled/disabled between updates?"
 Nope. I don't have a workaround for this. 
 This is why I only recommend you update the list when you want to start a new game.
 Get a good long playthrough out of it, take a break, mayber play a different overhaul, and come back to us when you're ready.
@@ -1516,6 +1489,8 @@ Users kept complaining that the Load Order would randomly rearrange itself betwe
 You need like a damn PHD to understand all of Vortex's quirks.  
 
 It became too time consuming to help users troubleshoot, and I didn't like people bad-mouthing my hard work because the tool was screwing up.  
+
+Vortex is great for Stardew Valley.  Vortex for 7DtD is setting yourself up for failure the longer you use it.
 
 So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list for users entirely.
 
