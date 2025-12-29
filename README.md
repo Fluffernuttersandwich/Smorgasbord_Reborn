@@ -242,6 +242,14 @@ https://www.wabbajack.org/
 Just like you downloaded everything the first time.
 The difference is, it will only download new/updated mods.
 
+**Standard warning:** There's no guarantee you can update the ModList and continue to play in an old save.
+
+If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
+
+There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough.
+
+Don't FOMO! The list isn't going anywhere!
+
 ---
 
 ## FAQs
