@@ -1,4 +1,4 @@
-2.5.1.6 14:10 EST 29DEC2025
+2.5.1.6 16:15 EST 29DEC2025
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
@@ -18,6 +18,17 @@ I think most of these are OP in general.
 3. Added Experimental Separator. 
 Test and or use these mods at your own risk.
 
+4. Renamed the EFTX Separator to Weapons and moved some mods around.
+
+5. Massive Overhaul of the GitHub ReadMe! 
+A. I added new usable links for the Table of Contents, and embedded within.
+B. Added new pages to segment: Troubleshooting, Dedicated Server, Adding Your Own Mods, etc.
+
+Community Requests:
+
+1. If someone out there wants to develop a MO2 Profile around converting Smorgasbord to work with IZPrebuilt's LBDR Mod (plus patches).
+2. If any of you have suggestions for improving the GitHub look, feel, or new pages, please let me know.
+
 Mods Removed: 
 1. Wild West NPC Cow Hands and add-on patch mod. 
 I don't have time to figure out the error it's throwing.
@@ -26,9 +37,6 @@ Mods Fixed:
 1. Charred Meat Replacer
 If you see other warnings or benign errors that might be easy fixes, please let me know.
 I sent the fix to the author.
-
-2. When you combine FNS Bait Bags + The Descent, it will throw a silent (console does not open) benign error. 
-It's overwriting the same file, but it's fine.
 
 Mods Updated:
 1. Danzo Screamers. Fixes.
