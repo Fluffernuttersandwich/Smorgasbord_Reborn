@@ -284,15 +284,3 @@ All troubleshooting, logs, performance issues, and known problems are documented
 Not expected — always appreciated.
 
 ▶ https://next.nexusmods.com/profile/FlufferNutterSandwich
-
-
-
-
-
-# Smörgåsbord by FNS
-
-![Smorg1](https://github.com/user-attachments/assets/84245d84-fcfc-4842-a874-987e7332f840)
-
-
-
-______________________________________________________________________________________________________
