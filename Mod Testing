@@ -1,28 +1,77 @@
-2.5.1.3 14:10 EST 27DEC2025
+2.5.1.6 14:10 EST 29DEC2025
 
-Exclusively for 7DtD game version 2.5
+Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
+If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
+There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
+Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. It's back!  I took a much needed break and have decided to ressurrect the Mod List.  
-I missed playing, modding, and interacting with the community.  
-I apologize for leaving the list in a bad state when I left, I accidentally formated my old PC to pass it on to my son.
-It took a bit of time to fix, and restore the list from the ground up. 
+1. A community member named donelofficial put in a request on the GitHub Issues tracker for me to add new mods (and missing old ones) to the list.
+Most of the additions were by his request.
+
+2. Added the Perks Separator.  I think most of the Perk mods might need some updating. 
+I only did initial testing to confirm no immediate errors at launch into game world.  
+I think these are OP in general
+
+3. Added Experimental Separator. Test and or use these mods at your own risk.
+Example: Kajdaniec asked for "Extended World Settings".  
+It's "safe" so long as you don't go to extremes in either direction for the settings.  
+I don't have the time to test it all. Use good judgement or keep this mod disabled.
+
+Mods Removed: 
+1. Wild West NPC Cow Hands and add-on patch mods. 
+I don't have time to figure out the error it's throwing.
+
+Mods Fixed:
+1. Charred Meat Replacer
+If you see other warnings or benign errors that might be easy fixes, please let me know.
+
+Benign Warnings: 
+1. The Descent
+2. WalkerSim
+3. Closer Weapon's Pack
+4. There's likely more I'm missing
+
+Benign Errors:
+1. OCB Maurice's Parachute mod. It will open the console with an Error, but it still works.  
+The mod is disabled by default until he updates it. 
+This happens every time TFP updates the game, but OCB usually only recompiles his mods when something is actually broken.
+
+2. When you combine FNS Bait Bags + The Descent, it will throw a silent (console does not open) benign error. 
+It's overwriting the same file, but it's fine.
+
+Mods Updated:
+1. Danzo Screamers. Fixes.
+2. Danzo Hide version number. More options for use.
+3. Custom Avatars (VRoid).  Camera, hands, and vehicle issues fixed.
+4. Clement Weather (is now working as intended)
+
+Mods Added:
+
+1. “More Skill Points Per Level” OP, disabled.
+I did not add every variant, just the one for 3 points a level. 
+
+2. “Autominers” OP, disabled. 
+https://www.nexusmods.com/7daystodie/mods/4324;
+
+3. “Efficient Base Repair” OP, enabled. 
+https://www.nexusmods.com/7daystodie/mods/4861
+
+4. “Hydroponic Farming” Standard, enabled.
+https://www.nexusmods.com/7daystodie/mods/8988
+
+5. Perks, disabled.
+“Natural Progression” 
+https://www.nexusmods.com/7daystodie/mods/6989;
+“Perk Mastery”
+https://www.nexusmods.com/7daystodie/mods/1330.
+
+6. “Endless Harvest” OP, disabled.
+https://www.nexusmods.com/7daystodie/mods/7554
+Harvested plants convert back to sapling plants.
 
 
-2. Going forward, I will maintain Smorgasbord, but to protect my own sanity I will be keeping user needs at arms distance.  
-What this means to you:
-A. Fewer and slower updates. I'll shoot for monthly.  
-B. Less one on one troubleshooting help from FNS. I am working on other projects and am still 66% RTO.  
-C. Users are going to have to wait for assistance, rely on it from other community members, figure it out themselves, or suffer.
 
-3. Current Plans:
-Add more of the old mods we're missing for 2.5 as they get updated and/or I have time to test them.  
-We are missing lots of vehicles, Vehicle Madness, Avatars (VRoid waifus), the CompoPack, and some other heavy hitters.
-
-Gratitude:
-StallionsDen for managing my mods during my absence.  I owe him big time!  
-
-For new folks, welcome, for old folks, welcome back!
 
 __________________________________________________________
