@@ -15,9 +15,6 @@ I only did initial testing to confirm no immediate errors at launch into game wo
 I think these are OP in general
 
 3. Added Experimental Separator. Test and or use these mods at your own risk.
-Example: Kajdaniec asked for "Extended World Settings".  
-It's "safe" so long as you don't go to extremes in either direction for the settings.  
-I don't have the time to test it all. Use good judgement or keep this mod disabled.
 
 Mods Removed: 
 1. Wild West NPC Cow Hands and add-on patch mods. 
@@ -45,33 +42,41 @@ Mods Updated:
 1. Danzo Screamers. Fixes.
 2. Danzo Hide version number. More options for use.
 3. Custom Avatars (VRoid).  Camera, hands, and vehicle issues fixed.
-4. Clement Weather (is now working as intended)
+4. Clement Weather is now working as intended
 
 Mods Added:
 
-1. “More Skill Points Per Level” OP, disabled.
-I did not add every variant, just the one for 3 points a level. 
+1. “More Skill Points Per Level” Perks, disabled.
+aka 3 Skill Points Per Level
 
 2. “Autominers” OP, disabled. 
-https://www.nexusmods.com/7daystodie/mods/4324;
+Adds new workstations to automine resources.
 
 3. “Efficient Base Repair” OP, enabled. 
-https://www.nexusmods.com/7daystodie/mods/4861
+Adds an Efficient Base Repair block.  
+Put base repairing resource inside of it and it will repair your base automatically.
+I don't know what the range is? Maybe LCB distance?
 
 4. “Hydroponic Farming” Standard, enabled.
-https://www.nexusmods.com/7daystodie/mods/8988
 
 5. Perks, disabled.
 “Natural Progression” 
-https://www.nexusmods.com/7daystodie/mods/6989;
 “Perk Mastery”
-https://www.nexusmods.com/7daystodie/mods/1330.
+"Legend Perks"
+"Legend Perks add-on nerf"
 
 6. “Endless Harvest” OP, disabled.
 https://www.nexusmods.com/7daystodie/mods/7554
 Harvested plants convert back to sapling plants.
 
+7. "Extended World Settings" Experimental, disabled.
+It's "safe" so long as you don't go to extremes in either direction for the settings.  
+I don't have the time to test it all. Use good judgement or keep this mod disabled.
 
-
+8."No Blurry Textures" Experimental, disabled.
+This mod is very hardware dependant. 
+I don't need it for myself, but some users might benfit by this to prevent blurry texture load-in issues. 
+Sometimes this mod might add an occasional random freeze-frame stutter to the game for a second. 
+This mod might be better for low end gaming hardware. 
 
 __________________________________________________________
