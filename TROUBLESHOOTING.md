@@ -97,6 +97,11 @@ Attach the **entire log file**, not screenshots.
 Within the game, you can press the F1 Key, and in the top right there is a button for "Folder Location of Logs". 
 Get your most recet log with the problem.
 
+
+<img width="618" height="247" alt="image" src="https://github.com/user-attachments/assets/c3ffe936-4b6c-4d8f-82cc-84d23dfbb18d" />
+
+
+
 ---
 
 ## Basic Sanity Checks
@@ -114,6 +119,14 @@ Experimental builds are **not supported**.
 EAC **must be disabled**, not muted.
 
 Disable it in the Steam 7DtD Game Launcher — permanently.
+
+
+<img width="1278" height="542" alt="image" src="https://github.com/user-attachments/assets/552b4508-b815-42ec-b97e-0db2646475ab" />
+
+
+<img width="1107" height="648" alt="image" src="https://github.com/user-attachments/assets/785ccd11-0c9c-4724-9414-835868584f14" />
+
+
 
 ---
 
@@ -186,6 +199,20 @@ d3d11: failed to create buffer
 
 If the game crashes mid-session, the save **may** be unrecoverable.
 
+
+## Disapearring folliage
+
+Trees, plants, and textures flickering in and out?
+
+A. Go to Video (Graphics) settings and Disable Occlusion. If you are playing with Better Biomes and Urban Decay, the author also suggests this.
+
+B. Some overlarge POIs like those from The Walking Dead POI Pack and Fallout Vaults will not render correctly. This is a game engine limitation. POIs larger than 150x150 blocks will have issues with roads, textures, and RWG spawning.
+
+
+<img width="3188" height="1110" alt="image" src="https://github.com/user-attachments/assets/77fd3da4-b1ef-40d6-9535-709f88209766" />
+
+
+
 ---
 
 ## World Loading & Crafting Bugs
@@ -236,6 +263,15 @@ Create Antivirus exceptions for:
 - `ModOrganizer.exe`
 - `7daystodie.exe`
 
+## Windows Issue
+This is an obscure one, but could be messing with 0_Harmony... Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).
+If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 
+0_Harmony will not be able to properly patch any method and will cause null pointers on the first method that is called that is patched. 
+To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
+
+<img width="834" height="1153" alt="image" src="https://github.com/user-attachments/assets/92961937-1550-499e-b44f-e42d31713fe3" />
+
+
 ---
 
 ## MO2 Interface Problems
@@ -245,6 +281,11 @@ Create Antivirus exceptions for:
 Click the **Priority** column header to re-sort.
 
 You didn’t break anything.
+
+
+<img width="1754" height="417" alt="image" src="https://github.com/user-attachments/assets/b4262a38-e6f5-41a5-9acf-b8d04d18b829" />
+
+
 
 ---
 
