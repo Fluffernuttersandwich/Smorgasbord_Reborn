@@ -46,3 +46,12 @@ Unless those pregenerated maps specifically include them, you will not see other
 
 
 ![image](https://github.com/user-attachments/assets/45677c3d-0ee1-4680-9d5a-447a4b6ff022)
+
+
+## How to prevent Updates to the Smorgasbord Mod List from deleting Mods (and maps) you added to MO2:
+
+<img width="1920" height="104" alt="image" src="https://github.com/user-attachments/assets/9559d3f3-91f3-4ebb-820f-25bb4cb50fd6" />
+
+You see the [No Delete] in the title of this image of MO2 for "Less Annoying Vultures"? 
+
+Use that so you can add your mods and prevent Smorgasbord updates from deleting them.
