@@ -75,7 +75,9 @@ Logs can be posted in the Guppy's Unofficial 7DtD Modding Discord Server in the 
 
 I or one of the other community members will assist you as time permits.  
 
+
 **Be kind:**
+
 → We are not paid tech support.  
 
 → We are not psychic.  
@@ -90,7 +92,7 @@ I or one of the other community members will assist you as time permits.
 
 When using **MO2 + Wabbajack**, logs are stored here:
 
-C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die
+C:\Users\YourUserName\AppData\Roaming\7DaysToDie\logs
 
 Attach the **entire log file**, not screenshots.
 
@@ -291,12 +293,25 @@ You didn’t break anything.
 
 ## Known Issues
 
+**Benign Warnings and Errors**
+
+Warnings come in yellow font within the (F1) Console.
+
+Errors are listed in Red within the (F1) Console.
+
 - WalkerSim produces many yellow warnings — **normal**
 - Descent + Bait Bags produces a benign error — **harmless**
-- Experimental mods are **not vetted**
+- Closer Weapon's Pack
+-  OCB Maurice's Parachute mod. It will open the console with an Error, but it still works.  
+The mod is disabled by default until he updates it. 
+This happens every time TFP updates the game, but OCB usually only recompiles his mods when something is actually broken.
+- There's likely more I'm missing
 
 
 I have hundreds of hours played with these warnings present.
+
+
+- Experimental mods are **not vetted**
 
 ---
 
@@ -304,13 +319,16 @@ I have hundreds of hours played with these warnings present.
 
 If you:
 - Read the README
-- Read this document
-- Posted logs
+- Read this Troubleshooting guide
 - Followed instructions
 
 …and it still doesn’t work?
 
-Then yes — contact us over at Guppy's.
+Then yes — contact us over at Guppy's in the fns-smorgasbord channel.
+
+Post logs with a description of the issue.
+
+Reminder: No Logs = No Assistance!
 
 If you skipped steps and winged it?
 
