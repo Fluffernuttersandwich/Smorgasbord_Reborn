@@ -1,4 +1,4 @@
-2.5.1.6 16:15 EST 29DEC2025
+2.5.1.7 16:15 EST 30DEC2025
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
@@ -7,80 +7,22 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. A community member named donelofficial put in a request on the GitHub Issues tracker for me to add new mods (and missing old ones) to the list.
-Most of the additions were by his request.
 
-2. Added the Perks Separator.  I think most of the Perk mods might need some updating.
-They should work without errors, but temper your expectations accordingly.
-I only did initial testing to confirm no immediate errors at launch into game world.  
-I think most of these are OP in general.
 
-3. Added Experimental Separator. 
-Test and or use these mods at your own risk.
-
-4. Renamed the EFTX Separator to Weapons and moved some mods around.
-
-5. Massive Overhaul of the GitHub ReadMe! 
-A. I added new usable links for the Table of Contents, and embedded within.
-B. Added new pages to segment: Troubleshooting, Dedicated Server, Adding Your Own Mods, etc.
-
-Community Requests:
+Standing Community Requests:
 
 1. If someone out there wants to develop a MO2 Profile around converting Smorgasbord to work with IZPrebuilt's LBDR Mod (plus patches).
+
 2. If any of you have suggestions for improving the GitHub look, feel, or new pages, please let me know.
 
 Mods Removed: 
-1. Wild West NPC Cow Hands and add-on patch mod. 
-I don't have time to figure out the error it's throwing.
-
-Mods Fixed:
-1. Charred Meat Replacer
-If you see other warnings or benign errors that might be easy fixes, please let me know.
-I sent the fix to the author.
+N/A
 
 Mods Updated:
-1. Danzo Screamers. Fixes.
-2. Danzo Hide version number. More options for use.
-3. Custom Avatars (VRoid).  Camera, hands, and vehicle issues fixed.
-4. Clement Weather is now working as intended
+WalkerSim
 
 Mods Added:
 
-1. “More Skill Points Per Level” Perks, disabled.
-aka 3 Skill Points Per Level
 
-2. “Autominers” OP, disabled. 
-Adds new workstations to automine resources.
-
-3. “Efficient Base Repair” Optional, enabled. 
-Adds an Efficient Base Repair block.  
-Put base repairing resource inside of it and it will repair your base automagically.
-You can also toggle it to be able to upgrade your base as well. 
-It will do this randomly, so if resources are limited, I recommend you manually upgrade your key blocks.
-
-4. “Hydroponic Farming” Standard, enabled.
-Plant indoors in hydroponic tray workstaions. This is not an intuitive system. 
-You might need to read up on the NexusMods page to figure out how it works.
-One is for seed crafting, the other is for actually growing plants.
-
-5. Perks, disabled.
-“Natural Progression” 
-“Perk Mastery” (must use CATUI or SteelUI once it's updated for 2.5)
-"Legend Perks" (must use CATUI or SteelUI once it's updated for 2.5)
-"Legend Perks add-on nerf"
-
-6. “Endless Harvest” OP, disabled.
-https://www.nexusmods.com/7daystodie/mods/7554
-Harvested plants convert back to sapling plants.
-
-7. "Extended World Settings" Experimental, disabled.
-It's "safe" so long as you don't go to extremes in either direction for the settings.  
-I don't have the time to test it all. Use good judgement or keep this mod disabled.
-
-8."No Blurry Textures" Experimental, disabled.
-This mod is very hardware dependant. 
-I don't need it for myself, but some users might benfit by this to prevent blurry texture load-in issues. 
-Sometimes this mod might add an occasional random freeze-frame stutter to the game for a second. 
-This mod might be better for low end gaming hardware. 
 
 __________________________________________________________
