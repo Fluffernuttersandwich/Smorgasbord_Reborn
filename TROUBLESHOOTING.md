@@ -104,6 +104,40 @@ Get your most recet log with the problem.
 
 
 
+**"Why do you guys stress Logs so much?"**
+
+Because they generally help us narrow down the problem in seconds rather then play 20 Questions with you. 
+
+We all like our limited time on this world to be respected.
+
+
+**Here's a funny real life example:**
+
+User1: "Help, I don't know why my game is so dark?! I am only using ModAuthor1's mod called "Light".
+
+ModAuthor1: _Proceeds to play 20 Questions with User 1 for all the reasons that could be causing their game to be dark._
+
+ModAuthor2: Hi User1, are you absoloutely certain, like 100% sure you are only using ModAuthor1's mod, and no other mods, right?
+
+User1: Yep, I am only using ModAuthor1's mod "Light". I'm totally 100% sure.
+
+ModAuthor1: _Continues to play 20 Questions with User1 to determine the root cause. It's literally pages long at this point._
+
+ModAuthor2: User1, please just post your log for a sanity check.
+
+_User1 posts logs. Log includes additional mods. One of them named "DARK"._
+
+ModAuthor2: So, you're 100% sure you had no others mods right? What about the one in your log called "DARK"? lol
+
+User1: 🤦‍♂️ 
+
+
+We stress logs because we see similar stories like this, almost daily!
+
+
+Respect your time, and respect ours.  JUST POST THE LOGS!
+
+
 ---
 
 ## Basic Sanity Checks
