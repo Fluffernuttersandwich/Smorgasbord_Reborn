@@ -104,11 +104,12 @@ Get your most recet log with the problem.
 
 
 
+
 **"Why do you guys stress Logs so much?"**
 
-Because they generally help us narrow down the problem in seconds rather then play 20 Questions with you. 
+Because they generally help us narrow down the problem in seconds rather than playing 20 Questions with you. 
 
-We all like our limited time on this world to be respected.
+We all like our limited time on this world to be respected. You want to get back to your game, and so do we.
 
 
 **Here's a funny real life example:**
@@ -121,11 +122,11 @@ ModAuthor2: Hi User1, are you absoloutely certain, like 100% sure you are only u
 
 User1: Yep, I am only using ModAuthor1's mod "Light". I'm totally 100% sure.
 
-ModAuthor1: _Continues to play 20 Questions with User1 to determine the root cause. It's literally pages long at this point._
+ModAuthor1: _Continues to play 20 Questions with User1 to determine the root cause. It's literally pages long of back and forth at this point._
 
 ModAuthor2: User1, please just post your log for a sanity check.
 
-_User1 posts logs. Log includes additional mods. One of them named "DARK"._
+_User1 posts logs. What do you know, the Log includes additional mods? Nope, never seen that before (*sarcasm). And one of them is named "DARK"._
 
 ModAuthor2: So, you're 100% sure you had no others mods right? What about the one in your log called "DARK"? lol
 
@@ -135,7 +136,7 @@ User1: 🤦‍♂️
 We stress logs because we see similar stories like this, almost daily!
 
 
-Respect your time, and respect ours.  JUST POST THE LOGS!
+Respect your time, and respect ours.  **JUST POST THE LOGS!**
 
 
 ---
