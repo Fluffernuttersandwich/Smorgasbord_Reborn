@@ -1,5 +1,7 @@
 2.5.1.8 16:15 EST 31DEC2025
 
+You will probably need to start a new save for this update.
+
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
 There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
@@ -7,7 +9,9 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. Added a new Separator for the CompoPack (CP).  
+1. I'm going to wait on LBDR. IZPrebuilt is planning on a new hybrid version, and TFP looks to be going that direction as well.
+
+2. Added a new Separator for the CompoPack (CP).  
 All of the mods within it are disabled by default.
 Warning: CP POIs are more challenging than vanilla. 
 Also, you get a mixed bag of serious and silly POIs.  
@@ -16,12 +20,13 @@ A. The Modded-CP contains vanilla POIs built with the Custom Blcoks Pack.
 B. The Custom Unity Block Pack (CUBP) contains fancier Unity assets in these POIs.
 C. There are also NPC-specific POIs, but you must toggle the NPC-Core mod to use these or you will have errors. 
 
-2. I got a message today someone asking for a separate light-weight Mod List. 
-They didn't want as many decor, vehicle, and silly mods.
-I get this sort of message fairly regularly.
+3. This week I got a rash of comments from all over asking for a separate light-weight Mod List version of Smorgasbord. 
+They didn't want as many decor, vehicle, OP, NPCs, and silly mods.
+I already took some of what they said to heart: Fewer vehicles, no additional Avatars (waifu).
+I get this sort of message fairly regularly, but it was non-stop this week.
 Here's my general response when I get this request: No.
 It's a lot of work maintaining one Wabbajack Mod List already.
-I don't want to duplicate my efforts. If I include everything, you can just toggle your preferences.   
+I don't want to duplicate my efforts. If I include everything, players can just toggle to their preferences.   
 I am not interested in Power Fantasy Gaming, but I include Overpowered mods for those people.
 I don't play with NPCs, but again, some people love them. 
 I don't play with Decor mods, but again, for some people, that's their main thing.  
@@ -32,27 +37,46 @@ The whole point of Smorgasbord being on MO2 is that it allows users to choose wh
 
 Standing Community Requests:
 
-1. Development of a MO2 Profile around converting Smorgasbord to work with IZPrebuilt's LBDR Mod (plus patches).
-I made a very bare bones Profile, it probably works, but is very meager compared to the full list. 
-
-2. If any of you have suggestions for improving the GitHub look, functionality, or have ideas for new pages then please let me know.
+1. If any of you have suggestions for improving the GitHub look, functionality, or have ideas for new pages then please let me know.
 
 Mods Removed: 
-N/A
+
+1. I removed the "gloves" portion of Izy's mod to eliminate the third arm animation visual bug.
+However, this means you will not see worn gloves when using Izy guns in First Person View. 
 
 Mods Updated:
+
 WalkerSim
 No Blurry Textures
+Elemental Zombie Damage
+KF CUL
+KF SFX
 
 Mods Added:
 
+Returning mods:
 Modded CompoPack POIs
 Modded CUBP CompoPack POIs
-
 Most of Hunlight's mods.
-
 A few mods from vinylplz.
+Izy toilet pistols.
 
+"Black Wolf's AC and Heater inside vehicles (A21 - 1.0 - 2.0)" Vehicles, enabled.
+Does what it says.
 
+"Ophidiophobia - True Zombie Survival (No Snakes Wolves Bears Vultures)" Zombies, disabled.
+Removes these creatures from global spawning, and replaces some of them with zombies in POIs.
+
+New stuff:
+
+"Craft Clothing for 2.5" Standard, enabled.
+From the Author:
+Adds recipes to allow players the ability to craft the (thermal insulating) clothing items brought back into 2.5.
+Currently in 2.5, you cannot craft or buy them from traders.
+Until TFP fixes that issue in a future update, I made this mod so we can at least craft them. 
+I gated the ability to craft these items by locking tier 2 and 3 behind workstations:
+Craft Tier 1 Clothing within the Backpack.
+Craft Tier 2 Clothing within the Workbench.
+Craft Tier 3 Clothing within the Chemistry Station. You must search "Clothing" within the Chemistry Station to find it!
 
 __________________________________________________________
