@@ -1,3 +1,16 @@
+2.5.1.8 10:40 EST 01JAN2026
+
+Hotfix and micro update:
+
+1. Fixed the Izy animation glove issue.  
+I missed the fact that I had accidentally double-nested a folder and the patch failed silently. 
+Gloves and animations are now working. 
+
+2. Updated LATT to include Empty Jars in some loot groups.
+
+3. Added Byteblazar's "Natural Selection - Animal AI Overhaul" mod. Zombies, enabled.
+Makes animals behave in a more realistic manner.
+
 2.5.1.7 18:15 EST 31DEC2025
 
 You will probably need to start a new save for this update.
