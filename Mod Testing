@@ -1,6 +1,4 @@
-2.5.1.7 18:15 EST 31DEC2025
-
-You will probably need to start a new save for this update.
+2.5.1.9 00:00 EST 02JAN2026
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
@@ -9,34 +7,7 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. I'm going to wait on LBDR. IZPrebuilt is planning on a new hybrid version, and TFP looks to be going that direction as well.
-Let's just wait to see how that develops.
-
-2. Added a new Separator for the CompoPack (CP).  
-All of the mods within it are disabled by default.
-Warning: CP POIs are more challenging than vanilla!
-Also, you get a mixed bag of serious and silly POIs.  
-The CP is a historical preservation of every community made POI compiled in one place.
-If that is not your jam, just keep these disabled.
-A. The Modded-CP contains vanilla POIs built with the Custom Blcoks Pack.
-B. The Custom Unity Block Pack (CUBP) contains fancier Unity assets in these POIs.
-C. There are also NPC-specific POIs, but you must toggle the NPC-Core mod to use these or you will have errors. 
-
-3. This week I got a rash of comments from all over asking for a separate light-weight Mod List version of Smorgasbord. 
-They didn't want as many decor, vehicle, OP, NPCs, and silly mods.
-I already took some of what they said to heart: Fewer vehicles, no additional Avatars (waifu).
-I get this sort of message fairly regularly, but it was non-stop this week.
-Here's my general response when I get this request: No.
-It's a lot of work maintaining one Wabbajack Mod List already.
-I don't want to duplicate my efforts. If I include everything, players can just toggle to their preferences.   
-Everyone who comes to the list has different tastes.
-I am not interested in Power Fantasy Gaming, but I include Overpowered mods for those people.
-I don't play with NPCs, some people love them. 
-I don't play with Decor mods, but again for others that's their main thing.  
-It would be easier for me if I only included the mods I use in my own game, but this list was made to be modular.
-It was also made as a showcase for all of the best (compatible) mods in the community.
-I don't tell people how to play, I just provide them options.
-The whole point of Smorgasbord being on MO2 is that it allows users to choose what they want like a buffet table.
+1. 
 
 Standing Community Requests:
 
@@ -44,49 +15,13 @@ Standing Community Requests:
 
 Mods Removed: 
 
-1. I removed the "gloves" portion of Izy's mod to eliminate the third arm animation visual bug.
-However, this means you will not see worn gloves when using Izy guns in First Person View. 
-There's no way around this issue until Izy makes his next version of the AIO mod.  
-I know he's working on it, but no guess as to when it will be ready.
+N/A
 
 Mods Updated:
 
-WalkerSim
-No Blurry Textures
-Elemental Zombie Damage
-KF CUL
-KF SFX
+CompoPack
+CUBP
 
 Mods Added:
-
-Returning mods:
-Modded CompoPack POIs
-Modded CUBP CompoPack POIs
-Most of Hunlight's mods.
-A few mods from vinylplz.
-Izy toilet pistols.
-
-New stuff:
-
-"Craft Clothing for 2.5" Standard, enabled.
-From the Author:
-Adds recipes to allow players the ability to craft the (thermal insulating) clothing items brought back into 2.5.
-Currently in 2.5, you cannot craft or buy them from traders.
-Until TFP fixes that issue in a future update, I made this mod so we can at least craft them. 
-I gated the ability to craft these items by locking tier 2 and 3 behind workstations:
-Craft Tier 1 Clothing within the Backpack.
-Craft Tier 2 Clothing within the Workbench.
-Craft Tier 3 Clothing within the Chemistry Station. You must search "Clothing" within the Chemistry Station to find it!
-
-"Black Wolf's AC and Heater inside vehicles (A21 - 1.0 - 2.0)" Vehicles, enabled.
-Does what it says.
-
-"Ophidiophobia - True Zombie Survival (No Snakes Wolves Bears Vultures)" Zombies, disabled.
-Removes these creatures from global spawning, and replaces some of them with zombies in POIs.
-
-"Audible Breaking Glass Jars" Audio, disabled.
-Adds a glass breaking sound when drinking from jars causes the jar to break. 
-The game's jar return percentage setting is completely silent - now you'll hear when you lose a jar. 
-Configurable sounds, supports custom audio.
 
 __________________________________________________________
