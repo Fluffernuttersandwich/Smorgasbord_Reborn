@@ -116,10 +116,17 @@ They must have Harmony present!
 You must play with EAC disabled! Too many of the mods on this list will trigger EAC if it is enabled. 
 I would be careful who you invite into your dedicated server when EAC is off!
 
-Mods to consider disabling for Dedicated Servers:
+I'm no Dedicated Server expert, but here is a small list of Mod considerations: 
 
-1. All mods that deal with Fire spreads! It's too demanding on the server and can be buggy.
-2. Better Biomes. Too resource intensive.
-If they are running additional mods out of other folders, they're probably going ot have errors.
+1. You might consider going into the XML of SCore, Gears Manages Score, and Guppy Fire to disable Fire.
+
+Fire can be hard on server performance and sometimes act buggy.  
 
 
+2. Also, I would recommend not using on Better Biomes, or Urban Decay because they will bring your performance down
+
+
+3. Depending on your server specs, The Descent and CompoPack/CUBP can be hard on performance.
+
+
+4. Also be aware of things like your settings on either Remote Crafting/Beyond Storage 2 if you choose either.
