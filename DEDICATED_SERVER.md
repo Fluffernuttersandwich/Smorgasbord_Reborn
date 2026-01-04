@@ -116,9 +116,9 @@ They must have Harmony present!
 You must play with EAC disabled! Too many of the mods on this list will trigger EAC if it is enabled. 
 I would be careful who you invite into your dedicated server when EAC is off!
 
-I'm no Dedicated Server expert, but here is a small list of Mod considerations: 
+## **I'm no Dedicated Server expert, but here is a small list of Mod considerations: **
 
-**1. You might consider going into the XML of SCore, Gears Manages Score, and Guppy Fire to disable Fire.**
+1. You might consider going into the XML of SCore, Gears Manages Score, and Guppy Fire to disable Fire.
 Fire can be hard on server performance and sometimes act buggy.  
 
 
