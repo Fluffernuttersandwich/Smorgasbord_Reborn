@@ -1,4 +1,4 @@
-2.5.1.10 17:15 EST 05JAN2026
+2.5.1.11 21:15 EST 06JAN2026
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
@@ -7,7 +7,9 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. Hotfix to Natural Selection to correct the "too many animals" issue.
+1. The Zeebark Block Error has been reported to her. As far as I know, it's benign. She will fixt in time, and I will update when it's fixed.
+
+2. For DLSS fans, Nvidia has opened access to the new DLSS 4.5 in beta. You have to opt into it yourself within the Nvidia Geforce app > Settings > About > Early access to beta. 
 
 Standing Community Requests:
 
@@ -19,34 +21,22 @@ N/A
 
 Mods Updated:
 
-"Endless Harvest"
-"Natural Selection"
-"Singularity"
+"Closer Weapons Pack"
+"KF SFX"
+"KF CUL"
+"Zeebark POI Pack" (currently throws a benign error, so expect another update soon)
+"POI Scourge"
+
 
 Mods Added:
 
-"Stop Bikes From Falling Over" Standard, enabled.
-This is one of those "should be vanilla" mods.
-
-"Witos's FAV" Vehicle, enabled.
-Adds a vehicle.
-
-"Bell Go Bong" Audio, enabled.
-I chose the variant that just makes a sound when you strike the bell block.
-There's an alternate version that summons zombies, but I decided not to do that one.
-
-"Dismember Randomizer" Zombies, disabled.
-Zombies can randomly spawn in with missing limbs.
-
-"POI Scourge" QoL, enabled.
-A checkmark is placed on the map of each Cleared POI. 
-This happens either when you successfully vanquish all zombies on a Clear Quest, or when you kill all of the entities in a POI Boundary outside of a quest.
-
-"Server Enforced Brightness" Graphics, enabled.
-Requires Singularity! Disallows other players from changing Brightness on a server.
-
-"TraderSync" Experimental, disabled.
-TraderSync let's players use the same NPC trader at the same time and keeps the trader’s item list synced for everyone.
+"StorageSync" Experimental, disabled.
+StorageSync let's players use the same storage container at the same time and keeps the inventory list synced for everyone.
 I haven't had the oppurtunity to test this yet. Please let me know if it works in multiplayer without issues.  
+
+"Army POI" POI, enabled.
+
+"Customizable Armor Slots" Armor, enabled.
+Sets LRS's Armor Suit Mod Slots to the same value number as vanilla armor in 2.5.
 
 __________________________________________________________
