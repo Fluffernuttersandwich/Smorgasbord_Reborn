@@ -9,7 +9,12 @@ Comments:
 
 1. The Zeebark Block Error has been reported to her. As far as I know, it's benign. She will fixt in time, and I will update when it's fixed.
 
-2. For DLSS fans, Nvidia has opened access to the new DLSS 4.5 in beta. You have to opt into it yourself within the Nvidia Geforce app > Settings > About > Early access to beta. 
+2. For DLSS fans, Nvidia has opened access to the new DLSS 4.5 in beta. 
+A. To use it, you must update to the latest Nvidia GPU Driver.
+B. You must manually update to the latest DLSS dll file. I personally update the DLSS Swapper application, and manage them there.  
+C. You have to opt into it yourself within the Nvidia Geforce app > Settings > About > Early access to beta. This will be standard after 13JAN2026.
+D. If you are on a 20 or 30 series Nvidia GPU, you may want to stay on the K preset. If you are on a 40 or 50 series GPU, experiment with the M preset. 
+
 
 Standing Community Requests:
 
@@ -24,7 +29,7 @@ Mods Updated:
 "Closer Weapons Pack"
 "KF SFX"
 "KF CUL"
-"Zeebark POI Pack" (currently throws a benign error, so expect another update soon)
+"Zeebark POI Pack"
 "POI Scourge"
 
 
