@@ -1,4 +1,4 @@
-2.5.1.11 21:15 EST 06JAN2026
+2.5.1.11 18:00 EST 08JAN2026
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
@@ -7,14 +7,13 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. The Zeebark Block Error has been reported to her. As far as I know, it's benign. She will fixt in time, and I will update when it's fixed.
-
-2. For DLSS fans, Nvidia has opened access to the new DLSS 4.5 in beta. 
+1. For DLSS fans, Nvidia has opened access to the new DLSS 4.5 in beta. 
 A. To use it, you must update to the latest Nvidia GPU Driver.
 B. You must manually update to the latest DLSS dll file. I personally update the DLSS Swapper application, and manage them there.  
 C. You have to opt into it yourself within the Nvidia Geforce app > Settings > About > Early access to beta. This will be standard after 13JAN2026.
 D. If you are on a 20 or 30 series Nvidia GPU, you may want to stay on the K preset. If you are on a 40 or 50 series GPU, experiment with the M preset. 
-
+I am using the latest DLSS 4.5 with Preset M on a 5090. Currently playing with DLSS set to Quality to maintain higher native FPS.
+I experimented with both Ultra Quality and DLAA, but saw significant FPS drop.
 
 Standing Community Requests:
 
@@ -31,7 +30,14 @@ Mods Updated:
 "KF CUL"
 "Zeebark POI Pack"
 "POI Scourge"
-
+"More Quest Options"
+"Gears"
+"Natural Selection"
+"Singularity"
+"(TMO) Advanced Bullet Casing Collector x Client Side"
+"(TMO) Zombies Cant Dig x ServerSide Friendly_v2.4Stable"
+"7 Days Super Resolution(DLSS)"
+"GoFasterOnRoads"
 
 Mods Added:
 
