@@ -192,6 +192,17 @@ There must be **NO mods** in:
 C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
 
+If you don't have a Mods folder in AppData\Roaming\7DaysToDie, that's fine, it won't hurt anything.
+
+
+MO2 runs a "virtual" AppData\Roaming\7DaysToDie\Mods.  
+
+However, if you have mods in either the base game's Mods folder, or the AppData Mods folder, it will run them from everywhere and cause Errors.
+
+
+With the exception of the Harmony mod in the base game's folder, do not run any other mod from anywhere outside of MO2!
+
+
 
 ---
 
