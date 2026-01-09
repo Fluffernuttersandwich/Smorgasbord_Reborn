@@ -1,6 +1,6 @@
 # 🧯 Smörgåsbord — Troubleshooting, Performance & Known Issues
 
-This document contains **all troubleshooting, diagnostics, performance tuning, and known issues** for the **Smörgåsbord by FNS** Wabbajack ModList.
+This document contains **all troubleshooting, diagnostics, performance tuning, and known issues** for the **Smörgåsbord**.
 
 If you skipped the README: go back and read it.  
 
