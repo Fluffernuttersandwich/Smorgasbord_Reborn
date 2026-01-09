@@ -1,5 +1,7 @@
 # How to add more mods and pregenerated maps to MO2:
 
+**_WARNING: If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it._**
+
 One of our community members, TNR Wilson, asked how he would go about adding the FluffyPanda MegaMall recently popularized by Glock9.  
 
 In MO2, make sure you have your Nexus account connected in MO2.  
