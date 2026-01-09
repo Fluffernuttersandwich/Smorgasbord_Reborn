@@ -7,7 +7,12 @@ If you skipped the README: go back and read it.
 If you didn’t read it: this document will hurt your feelings, and yes, you deserve that.
 
 
-_**If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it.**_
+> [!CAUTION]
+> If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it.
+> 
+> Adding mods is for advanced users only!
+> 
+> Any Errors you added to your Smorgasbord game by including your own new mods is _your_ problem to deal with.
 
 
 ## ⚡ Quick Troubleshooting Flowchart (Read This First)
