@@ -328,6 +328,24 @@ You didn’t break anything.
 
 ## Known Issues
 
+
+If you fail to read the Notes of mods in MO2, and toggle mods willy-nilly, you will create game breaking Errors.
+
+Here is an example:
+
+In MO2, under the Weapons Separator, it states that if you are playing with EFTX, you must choose One, and only One, Z2 ammo option.
+
+If you don't choose a Z2 ammo option, it fails with game breaking errors.
+
+If you choose more than one Z2 ammo option, it fails with game breaking errors.
+
+
+
+<img width="2124" height="1254" alt="image" src="https://github.com/user-attachments/assets/c2d8c75e-93b1-49c4-a968-ebb544d34af5" />
+
+
+
+
 **Benign Warnings and Errors**
 
 Warnings come in yellow font within the (F1) Console.
