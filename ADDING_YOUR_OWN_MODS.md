@@ -1,7 +1,10 @@
 # How to add more mods and pregenerated maps to MO2:
 
-**_WARNING: If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it._**
-Adding mods is for advanced users only. Any Errors you added to your Smorgasbord game from new mods is _your_ problem to deal with.
+> [!CAUTION]
+> If you added your own mods on top of Smorgasbord, you voided the warranty, and I am not helping you fix it.
+> Adding mods is for advanced users only!
+> Any Errors you added to your Smorgasbord game by including your own new mods is _your_ problem to deal with.
+
 
 One of our community members, TNR Wilson, asked how he would go about adding the FluffyPanda MegaMall recently popularized by Glock9.  
 
