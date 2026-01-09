@@ -1,11 +1,15 @@
 ## How to convert this ModList to run on a **Self-Hosted** Dedicated Server:
 
-
-**Warning!** Setting up a dedicated server is for _advanced_ users. 
-
-FNS and the kind community members over at Guppy's are not your paid tech support for this. 
-
-You can ask for help, but Dedi's are not our focus.
+> [!WARNING]
+> Setting up a dedicated server is for _advanced_ users.
+>
+> FNS is unable to assist you with this process!
+>
+> If you choose to do this, you have to figure it out _yourself_!
+>
+> FNS and the kind community members over at Guppy's are not your paid tech support for this.
+> 
+> You can ask for help, but Dedi's are not our focus.
 
 
 One of our Community Members named **Kajdaniec** has converted this ModList to run on a Dedicated Server using MO2.  
