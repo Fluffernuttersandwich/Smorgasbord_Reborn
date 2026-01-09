@@ -28,9 +28,7 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 **Stuck on “Building Environment…” or crafting queue frozen?**
 → Press F1
 
-→ Endless red errors?
-
-→ You removed or added mods mid-save. Start a new save. 
+→ Endless red errors? You removed or added mods mid-save. Start a new save. 
 
 **Game frozen, or the Console is a waterfall of Red Errors?**
 
@@ -51,7 +49,7 @@ If you didn’t read it: this document will hurt your feelings, and yes, you des
 → Insufficient RAM. The Descent requires 16GB of System Memory. Disbale that mod, or upgrade your hardware.
 
 → Performance Issues? Reduce Graphic Settings and Map size. Maybe disable The Descent and/or CompoPack POIs.
-You can also play around with things like DLSS, or try purchasing Lossless Scaling.
+You can also play around with things like DLSS, try purchasing Lossless Scaling, or upgrading your hardware.
 
 If none of the above applies:
 
